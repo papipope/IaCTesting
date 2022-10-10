@@ -1,4 +1,4 @@
-Dear authors,
+Dear subscribers,
 
 
 we are glad to inform you that your paper Testing Practices for Infrastructure as Code has been accepted to LANGETI'20
