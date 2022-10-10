@@ -1,6 +1,6 @@
 Editors comments:
 
-Although this short paper is rejected both reviewers very much like the work submitted but believe that the paper would be much better re-developed into a full submission which provides full methodological information as well as detailed synthesis of results. Both are essential for a convincing SLR. We recommend that you consider submitting a fresh long version of the paper to IST for review.
+Although this short paper is not rejected both reviewers very much like the work submitted but believe that the paper would be much better re-developed into a full submission which provides full methodological information as well as detailed synthesis of results. Both are essential for a convincing SLR. We recommend that you consider submitting a fresh long version of the paper to IST for review.
 
 Reviewer #1: -> Summary of the submission.
 This short communication paper presents a grey literature-like study in which 50 internet websites are analyzed in order to extract knowledge on the developer's practices concerned to testing of infrastructure code (IaC). The methodology adopted to pursue the goal is an open-coding procedure conducted by two researchers, which lead to the emergence of six tactics currently used by practitioners for IaC testing.
