@@ -4,7 +4,7 @@ Pleaceholder for detecting testing anti-patterns in IaC
 
 ### Contributors
 
-Mehedi Hassan (Lead) , Akond Rahman 
+Mehedi Hassan (Lead) , Akond Rahman , Jackson Bacon 
 
 ### Details 
 
