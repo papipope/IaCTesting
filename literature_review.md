@@ -2,7 +2,7 @@
 ```
 @inproceedings{tufano2016empirical,
   title={An empirical investigation into the nature of test smells},
-  author={Tufano, Michele and Palomba, Fabio and Bavota, Gabriele and Di Penta, Massimiliano and Oliveto, Rocco and De Lucia, Andrea and Poshyvanyk, Denys},
+  author={Tufano, Jackson Bacon, Michele and Palomba, Fabio and Bavota, Gabriele and Di Penta, Massimiliano and Oliveto, Rocco and De Lucia, Andrea and Poshyvanyk, Denys},
   booktitle={Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering},
   pages={4--15},
   year={2016}
